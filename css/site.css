@@ -98,3 +98,10 @@ footer .bi:hover {
 .appLogo {
 	max-width: 400px;
 }
+
+/* Button Format */
+
+.btnSubmit {
+    height: 38px;
+    width: 200px;
+}
