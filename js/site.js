@@ -17,7 +17,7 @@ function getValues() {
 		Swal.fire({
 			icon: 'error',
 			title: 'Oops!',
-			text: 'Please enter valid numbers for the start and end values',
+			text: 'Please enter valid numbers for the fizz, buzz and stop numbers',
 			backdrop: false
 		});
 	}
